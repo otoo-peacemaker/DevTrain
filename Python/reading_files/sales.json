@@ -1,0 +1,207 @@
+[
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "shoe",
+        "price" : "100",
+        "sold"  : "150",
+        "profit": "50"
+    },
+    {
+        "items" : "shirt",
+        "price" : "50",
+        "sold"  : "80",
+        "profit": "30"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "laptop screen",
+        "price" : "250",
+        "sold"  : "300",
+        "profit": "50"
+    },
+    {
+        "items" : "mobile",
+        "price" : "550",
+        "sold"  : "630",
+        "profit": "80"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "shoe",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "keyboard",
+        "price" : "15",
+        "sold"  : "20",
+        "profit": "5"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "shoe",
+        "price" : "100",
+        "sold"  : "150",
+        "profit": "50"
+    },
+    {
+        "items" : "shirt",
+        "price" : "50",
+        "sold"  : "80",
+        "profit": "30"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "laptop screen",
+        "price" : "250",
+        "sold"  : "300",
+        "profit": "50"
+    },
+    {
+        "items" : "mobile",
+        "price" : "550",
+        "sold"  : "630",
+        "profit": "80"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "shoe",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    },
+    {
+        "items" : "keyboard",
+        "price" : "15",
+        "sold"  : "20",
+        "profit": "5"
+    },
+    {
+        "items" : "clothes",
+        "price" : "150",
+        "sold"  : "200",
+        "profit": "50"
+    }
+    
+]
